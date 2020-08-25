@@ -1,0 +1,25 @@
+{
+  "name": "xml-to-json",
+  "version": "1.0.0",
+  "description": "An XML to JSON parser",
+  "main": "Parser.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jamesandrews23/xml-to-json.git"
+  },
+  "keywords": [
+    "npm-package",
+    "json",
+    "xml",
+    "parser"
+  ],
+  "author": "James Andrews",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jamesandrews23/xml-to-json/issues"
+  },
+  "homepage": "https://github.com/jamesandrews23/xml-to-json#readme"
+}
