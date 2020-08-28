@@ -62,7 +62,7 @@ function parse(xmlDoc, obj){
     }
 }
 
-export default function convertXmlToJson(xmlString){
+export default function convertXmlToJSObj(xmlString){
     let obj = {};
     let xml = domParser.parseFromString(xmlString, "application/xml");
     if(xml){
