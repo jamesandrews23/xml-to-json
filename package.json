@@ -1,6 +1,6 @@
 {
   "publishConfig": { "registry": "https://npm.pkg.github.com/" },
-  "name": "xmltojsobj",
+  "name": "xmltojsobjconverter",
   "version": "1.0.0",
   "description": "An XML to JSON parser",
   "main": "Parser.js",
